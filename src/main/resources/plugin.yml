@@ -1,0 +1,11 @@
+name: tulip-paper
+version: ${project.version}
+main: com.github.selott.tulip.Tulip
+api-version: 1.13
+prefix: TULIP
+load: STARTUP
+authors: [Selott]
+description: TULIP logger for PaperSpigot
+
+commands:
+  tulip:
